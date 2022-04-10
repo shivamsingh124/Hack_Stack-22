@@ -1,7 +1,7 @@
 # Hack_Stack-22
 # Differently-Abled Registration Portal Website
 
-## [Site is Live At](https://differently-abled-schemes.netlify.app/) : <br/> https://www.differently-abled-schemes.netlify.app/
+## [Site is Live At](https://differently-abled-schemes.netlify.app/) : <br/> https://differently-abled-schemes.netlify.app/
 
 ## [Demo Video of Working of Portal](https://www.youtube.com/watch?v=wpZCTsZigBY) : <br/> https://www.youtube.com/watch?v=wpZCTsZigBY
 
